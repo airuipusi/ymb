@@ -1,0 +1,16 @@
+body,html,p,a,h1,h2,h3,h4,h5,h6,input,textarea{
+    padding:0;
+    margin:0;
+}
+div::-webkit-scrollbar {
+    width: 0;
+    background-color:transparent;
+}
+body::-webkit-scrollbar {
+    width: 0;
+    background-color:transparent;
+}
+html::-webkit-scrollbar {
+    width: 0;
+    background-color:transparent;
+}
